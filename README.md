@@ -1,6 +1,6 @@
 # Projeto-Rocket-Seat-Plataforma-de-estudo
-Esse foi um projeto que fiz quando participei em uma imersão de desenvolvimento web da Rocket Seat
-Essa é uma plataforma de estudo onde alunos podem procurar professores e matérias que querem aprender mais
+Esse foi um projeto que fiz quando participei em uma imersão de desenvolvimento web da Rocket Seat.
+Esse projeto é uma plataforma de estudo onde alunos podem procurar professores e matérias que querem aprender mais
 e para professores se inscreverem para dar aulas.
 Usamos HTML, CSS e JavaScript.
 Criamos um servidor para poder abrir o projeto. Esse servidor está integrado no projeto.
